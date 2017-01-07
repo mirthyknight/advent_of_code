@@ -1,1 +1,1 @@
-# she_was_a_day_trader
+# This is where I put all my scrappy attempts to beat my partner solving the advent of code challenges
